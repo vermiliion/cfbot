@@ -1,0 +1,2 @@
+# cfbot
+bot pointing
